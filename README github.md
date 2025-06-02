@@ -25,13 +25,6 @@ This project is a simple desktop-based Cafe Management System built using JavaFX
 <!-- Place your screenshot in a 'screenshots' folder, then update the path below -->
 ![App Interface](screenshots/your_screenshot.png)
 
-## Getting Started
-
-1. *Clone the repository:*
-    ```bash
-   
-2. *Open the project in your Java IDE (e.g., IntelliJ IDEA, Eclipse).*
-3. *Build and run the project.*
 
 ## Usage
 
